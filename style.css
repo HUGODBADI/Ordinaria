@@ -1,0 +1,90 @@
+html {
+    background-color: orange;
+}
+
+h1.steve {
+    color: white;
+    text-align: center;
+}
+
+var {
+    color: green;
+    background-color: aqua;
+}
+
+section.blanco {
+    background-color: white;
+    height: 550px;
+}
+
+section.azul {
+    background-color: rgb(0, 140, 255);
+    height: 300px;
+}
+
+img.floatst {
+    position: relative;
+    bottom: -20px;
+    float: left;
+}
+
+img.floatma {
+    position: relative;
+    bottom: 0px;
+    float: right;
+}
+
+div.barraarriba {
+    background-color: blue;
+    height: 20px;
+    position: relative;
+    bottom: -20px;
+    left: 200px;
+    width:729px
+}
+
+div.barraabajo {
+    background-color: blue;
+    height: 20px;
+    position: relative;
+    bottom: 0px;
+}
+
+blockquote.azul {
+    color: blue;
+}
+
+blockquote.rojo {
+    color: red;
+}
+
+div.barraarribar {
+    background-color: red;
+    height: 20px;
+    position: relative;
+    bottom: -20px;
+    width:880px
+}
+
+div.barraabajor {
+    background-color: red;
+    height: 20px;
+    position: relative;
+    bottom: -4px;
+    width: 728px;
+}
+
+span.tac {
+    text-decoration-line: line-through;
+}
+
+span.hig {
+    background-color: gold;
+}
+
+div.fondo {
+    position: relative;
+    bottom: -100px;
+    background-color: brown;
+    height: 150px;
+}

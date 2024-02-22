@@ -1,0 +1,53 @@
+html {
+    background-color: orange;
+}
+
+h1.steve {
+    color: white;
+    text-align: center;
+}
+
+var {
+    color: green;
+    text-align: center;
+    background-color: aqua;
+}
+
+section.blanco {
+    background-color: white;
+}
+
+div.form {
+ background-color: aqua;
+ width: 700px;
+ height: 300px;
+ position: relative;
+ top: 20px;
+}
+
+div.fondo {
+    position: relative;
+    bottom: -100px;
+    background-color: brown;
+    height: 150px;
+}
+
+form.en {
+    position: relative;
+    top: 10px;
+    text-align: left;
+}
+
+p.en {
+    position: relative;
+    top: 10px;
+    text-align: left;
+}
+
+span.tac {
+    text-decoration-line: line-through;
+}
+
+span.hig {
+    background-color: gold;
+}
